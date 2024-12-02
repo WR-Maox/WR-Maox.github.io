@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rui-Qi Wang (王瑞琪 in Chinese)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
